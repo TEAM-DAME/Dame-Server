@@ -1,4 +1,5 @@
 .idea
 .DS_Store
 
-application.yaml
+application.yml
+application-oauth.yml
